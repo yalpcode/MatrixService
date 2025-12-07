@@ -1,4 +1,4 @@
 # MatrixService
 
 Устаревший репозиторий для проекта по дисциплине "Программирование на C++".
-Актуальный репозиторий находится по [этому адресу](https://github.com/yaplcode/matrix_service)
+Актуальный репозиторий находится по [этому адресу](https://github.com/yalpcode/matrix_service)
